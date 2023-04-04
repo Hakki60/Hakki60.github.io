@@ -1,0 +1,108 @@
+body{
+       background-color: white;
+}
+
+
+
+.logo{
+        height: 150px;
+}
+.container-fluid{
+        background-color:#16222a;
+}
+
+ .navbar .navbar-nav{
+     margin: 0 auto;
+     color: white;
+       
+        
+ }
+ .navbar .nav-item a{
+        
+        color: black;
+        font-size: 1.3rem;
+        font-family: 'Roboto', sans-serif;
+        
+        
+ }
+.navbar-brand {
+        color: white;
+        font-size: 2rem;
+}
+
+
+
+
+
+.navbar .nav-item .nav-link{
+        color:orange;
+              font-family: 'Roboto', sans-serif;
+              
+} 
+
+
+
+ .section .container{
+        background-color: white;
+ }
+ 
+ 
+.carousel-item{
+        height: 650px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+  .img-fluid{
+       margin-top: 20px;
+  }
+ .gap100{
+        padding: 50px 0px;
+ }
+ h1{
+        text-align: center;
+        justify-content: center;
+        color: orange;
+        
+ }
+ 
+ 
+ 
+ 
+ .services h2 {
+       margin-top: 20px; 
+       text-align: center;
+        font-family: 'montserrat', "sans sherif";
+        color: orange;
+        cursor: pointer;
+        font-weight: 900;
+       
+      }
+      
+
+      
+      .services h4{
+       text-align: center;
+       font-family: 'montserrat', "sans sherif";
+       color: orange;
+      }
+      
+      
+      .banner h2{
+       margin-top: 30px;
+       text-align: center;
+       font-family: 'montserrat', "sans sherif";
+       color: orange;
+       
+      }
+      .banner p{
+       text-align: center;
+       font-family: 'montserrat', "sans sherif";
+       
+       color:black;
+       
+      }
+      h2{
+       font-weight: 900;
+      }
+      
