@@ -30,7 +30,7 @@ body{
         font-size: 2rem;
 }
 
-/*-----icone mobile//*/
+
  .navbar-toggler-icon{
       background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 165, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
        border: 1px solid orange;
@@ -67,10 +67,27 @@ body{
         text-align: center;
         justify-content: center;
         color: orange;
+        text-decoration: underline 3px black;
         
  }
- 
- 
+ .autres{
+       margin-top: 10px;
+       
+ }
+ .autres h4 {
+       text-align: center;
+       color: black;
+       text-decoration: underline solid 3px orange;
+ }
+ .autres p{
+       text-align: left;
+       color: black;
+       font-size: 20px;
+       margin-left: 30%;
+       margin-top: 25px;
+      
+ }
+
  
  
  .services h2 {
@@ -109,4 +126,35 @@ body{
       h2{
        font-weight: 900;
       }
+      .card-body{
+       background-color: #16222a;
       
+      }
+      .card{
+       position: relative;
+      }
+      .card-title{
+       color: white;
+       
+      }
+      .card-text{
+       color: orange;
+      }
+      .container{
+       margin-top: 10px;
+      }
+      .card-body{
+       background-color:#16222a;
+      }
+      
+      .cstm-height-card .card-img-top {
+       height: 100px;
+       object-fit: cover;
+     }
+     .container h2{
+       text-align: center;
+       color: orange;
+       text-decoration: underline solid 1px black;
+      font-family: 'montserrat', "sans sherif";
+      font-weight: 300;
+     }
